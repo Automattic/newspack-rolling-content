@@ -9,9 +9,10 @@
 /bin/
 /features/
 /node_modules/
-/src/
+/src/js/
+/src/admin/
+/src/styles/
 /tests/
-/vendor/
 
 # Development configuration
 .babelrc
